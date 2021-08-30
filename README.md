@@ -65,5 +65,6 @@
 ---
 
 [linkedin]: https://www.linkedin.com/in/gustavo-da-silva-barros30011998
+[facebook]: https://www.facebook.com/gustavo.dasilvabarros/
 [gmail]: mailto:gustavos_barros@hotmail.com
 [instagram]: https://www.instagram.com/ogustavo.silva
