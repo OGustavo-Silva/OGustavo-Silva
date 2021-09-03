@@ -38,6 +38,9 @@
 [<code>
 <img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
 </code>](https://www.json.org/json-en.html)
+[<code>
+<img alt="json" width="26px" src="https://www.php.net/images/logos/new-php-logo.png">
+</code>](https://www.php.net/)
 
 [<code>
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
