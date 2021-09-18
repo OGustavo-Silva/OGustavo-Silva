@@ -6,7 +6,6 @@
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
 [<img align="left" alt="Gustavo | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
-[<img align="left" alt="Gustavo | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook]
 [<img align="left" alt="Gustavo | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
 
 <br />
@@ -73,6 +72,5 @@
 ---
 
 [linkedin]: https://www.linkedin.com/in/gustavo-da-silva-barros30011998
-[facebook]: https://www.facebook.com/gustavo.dasilvabarros/
 [gmail]: mailto:gustavos_barros@hotmail.com
 [instagram]: https://www.instagram.com/ogustavo.silva
