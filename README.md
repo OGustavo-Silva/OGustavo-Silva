@@ -1,6 +1,6 @@
 ### Hi there, i'm Gustavo Silva
 
-- 🌱 I’m attending the last semester of Computer Science
+- 🌱 Attending postgraduate in Artificial Intelligence and Machine Learning
 - 👯 I’m looking to collaborate with other content creators and open-source projects
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
