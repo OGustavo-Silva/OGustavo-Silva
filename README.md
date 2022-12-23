@@ -17,29 +17,14 @@
 ### Languages and Tools:
 
 [<code><img alt="python" width="32px" src="https://img.icons8.com/color/240/000000/python.png"></code>](https://www.python.org/)
-[<code><img alt="java" width="32px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
-</code>](https://docs.oracle.com/en/java/)
-[<code>
-<img alt="json" width="32px" src="https://www.php.net/images/logos/new-php-logo.png">
-</code>](https://www.php.net/)
-[<code>
-<img alt="javascript" width="32px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
-<img alt="NodeJS" width="32px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">
-</code>](https://nodejs.org/en/)
-[<code>
-<img alt="react" width="32px" src="https://img.icons8.com/color/240/000000/react-native.png" />
-</code>](https://reactjs.org/)
-[<code>
-<img alt="react" width="32px" src="https://logowik.com/content/uploads/images/flutter5786.jpg" />
-</code>](https://flutter.dev/)
-[<code>
-<img alt="html5" width="32px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code>
-<img alt="css3" width="32px" src="https://img.icons8.com/color/240/000000/css3.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<code><img alt="java" width="32px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png"></code>](https://docs.oracle.com/en/java/)
+[<code><img alt="json" width="32px" src="https://www.php.net/images/logos/new-php-logo.png"></code>](https://www.php.net/)
+[<code><img alt="javascript" width="32px" src="https://img.icons8.com/color/240/000000/javascript.png" /></code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<code><img alt="NodeJS" width="32px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png"></code>](https://nodejs.org/en/)
+[<code><img alt="react" width="32px" src="https://img.icons8.com/color/240/000000/react-native.png" /></code>](https://reactjs.org/)
+[<code><img alt="react" width="32px" src="https://logowik.com/content/uploads/images/flutter5786.jpg" /></code>](https://flutter.dev/)
+[<code><img alt="html5" width="32px" src="https://img.icons8.com/color/240/000000/html-5.png"></code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<code><img alt="css3" width="32px" src="https://img.icons8.com/color/240/000000/css3.png"></code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 <br />
 [<code>
 <img alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
