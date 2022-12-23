@@ -17,8 +17,7 @@
 ### Languages and Tools:
 
 [<code>
-<img alt="python" width="32px" src="https://img.icons8.com/color/240/000000/python.png"></code>](https://www.python.org/)
-[<code>
+<img alt="python" width="32px" src="https://img.icons8.com/color/240/000000/python.png"></code>](https://www.python.org/)[<code>
 <img alt="java" width="32px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
 </code>](https://docs.oracle.com/en/java/)
 [<code>
