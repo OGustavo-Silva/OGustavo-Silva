@@ -22,6 +22,7 @@
 [<code><img alt="javascript" width="32px" src="https://img.icons8.com/color/240/000000/javascript.png" /></code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code><img alt="NodeJS" width="32px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png"></code>](https://nodejs.org/en/)
 [<code><img alt="react" width="32px" src="https://img.icons8.com/color/240/000000/react-native.png" /></code>](https://reactjs.org/)
+[<code><img alt="Gatsby" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGywjvH6BOrxW-Kq3EPop4xCqX9IJFV03k2NMoMm-yCg&s" /></code>](https://www.gatsbyjs.com/)
 [<code><img alt="react" width="32px" src="https://logowik.com/content/uploads/images/flutter5786.jpg" /></code>](https://flutter.dev/)
 [<code><img alt="html5" width="32px" src="https://img.icons8.com/color/240/000000/html-5.png"></code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<code><img alt="css3" width="32px" src="https://img.icons8.com/color/240/000000/css3.png"></code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
