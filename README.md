@@ -41,6 +41,6 @@
 
 ---
 
-[linkedin]: https://www.linkedin.com/in/gustavo-da-silva-barros30011998
+[linkedin]: https://www.linkedin.com/in/gustavosbarros
 [gmail]: mailto:gustavos_barros@hotmail.com
 [instagram]: https://www.instagram.com/ogustavo.silva
