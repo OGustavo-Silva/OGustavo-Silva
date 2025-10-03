@@ -1,12 +1,11 @@
 ### Hi there, i'm Gustavo Silva
 
--  Attending postgraduate in Artificial Intelligence and Machine Learning
 -  I’m looking to collaborate with other content creators and open-source projects
+-  Postgraduate in artificial intelligence and machine learning. Currently working mainly with Typescript
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
 [<img align="left" alt="Gustavo | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
-[<img align="left" alt="Gustavo | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
 
 <br />
 
