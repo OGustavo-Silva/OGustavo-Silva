@@ -24,10 +24,7 @@
 [<code><img alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>](https://dev.mysql.com/)
 [<code><img alt="Oracle" width="32px" src="https://logodix.com/logo/88244.png"></code>](https://www.oracle.com/br/database/)
 <br />
-[<code><img alt="visual studio code" width="32px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" /></code>](https://code.visualstudio.com/)
 [<code><img alt="Git" width="32px" src="https://img.icons8.com/color/240/000000/git.png"></code>](https://git-scm.com/)
-[<code><img alt="github" width="32px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png"></code>](https://github.com/)
-
 
 ---
 
